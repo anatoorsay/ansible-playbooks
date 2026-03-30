@@ -18,3 +18,6 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-03-30
 - Tested build on clean environment
+
+## 2026-03-30
+- Improved log message formatting
